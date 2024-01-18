@@ -5,13 +5,13 @@
 Welcome to my GitHub profile!;
 <br>
 
-<img src="https://media.giphy.com/media/hPsERiAEJFYQSs9zS0/giphy.gif" width="150">
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150">
 
 ### 💼 About Me
 
-- 🎮 I
-- 📄 
-- 🌟 
+- 🎮 I'm A Game Developer And I Have 3 Games And A Lot Of Prototypes.
+- 📄 I'm A Website Developer And I Have 2 Website.
+- 🌟 I'm A Logo Maker And I Have Many Logo.
 
 ### 🛠️ Tech Stack
 
@@ -31,8 +31,8 @@ If you're looking for a design superhero, I'm your pixelated knight in shining a
 ### 🌍 Let's Connect
 
 - 📧 Need a design or developer? Reach out to me at <strong>talalcontact2010@gmail.com!</strong>
-- 🔗 Connect with me on Linkedin: <a><img src="https://img.shields.io/badge/-Mohammad Hamwi-blue?style=flat-square&logo=Linkedin&logoColor=white" height="25"></a>
-- 🌐 Visit My Portfolio Website <strong>talaldl.github.io/TalalDlool</strong>
+- 🔗 See  My Toutorial On Youtube: <a><img src="https://img.shields.io/badge/-Talal Dlool-red?style=flat-square&logo=Youtube&logoColor=white" height="25"></a>
+- 🌐 Visit My Portfolio Website <a href="talaldl.github.io/TalalDlool"><strong>talaldl.github.io/TalalDlool</strong></a><strong>!</strong>
 
 <!---### 📊 GitHub Stats
 
