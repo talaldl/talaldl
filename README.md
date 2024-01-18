@@ -17,9 +17,7 @@ Welcome to my GitHub profile!;
 
 - Front-End: ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 - UI/UX: ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
-- Motion Graphics: ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe%20after%20effects&logoColor=white)
-- Branding: ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-- Social Media Design: ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- Social Media Design: ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### 🚀 Currently
 
