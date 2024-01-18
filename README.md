@@ -9,13 +9,13 @@ Welcome to my GitHub profile!;
 
 ### 💼 About Me
 
-- 🔭 I thrive in startup environments because I have a Ph.D. in handling chaos—just ask my design files.
-- 🌟 My creativity is so wild that even my Figma files ask for a seatbelt.
-- 🚀 My goal is to enhance user experiences and make websites so beautiful that even browsers stop and say, "Wow."
+- 🎮 I
+- 📄 
+- 🌟 
 
 ### 🛠️ Tech Stack
 
-- Front-End: ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-9900B0?style=flat-square&logo=React&logoColor=white) 
+- Front-End: ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 - UI/UX: ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
 - Motion Graphics: ![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe%20after%20effects&logoColor=white)
 - Branding: ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white)
