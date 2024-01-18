@@ -31,7 +31,7 @@
 ### 🌍 Let's Connect
 
 - 📧 Need a designer or developer? Reach out to me at <strong>talalcontact2010@gmail.com!</strong>
-- 🔗 See  My Toutorial On Youtube: <a><img src="https://img.shields.io/badge/-Talal Dlool-red?style=flat-square&logo=Youtube&logoColor=white" height="25"></a>
+- 🔗 See  My Toutorial On Youtube: <a href="https://www.youtube.com/channel/UC3yQ9RPoKmco2kwibteV9Kg"><img src="https://img.shields.io/badge/-Talal Dlool-red?style=flat-square&logo=Youtube&logoColor=white" height="25"></a>
 - 🌐 Visit My Portfolio Website <a href="talaldl.github.io/TalalDlool"><strong>talaldl.github.io/TalalDlool</strong></a><strong>!</strong>
 
 <!---### 📊 GitHub Stats
