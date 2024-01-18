@@ -1,11 +1,8 @@
-# 👋 Hi there, I'm Mohammad Hamwi!
+# 👋 Hi there, I'm Talal Dlool!
 
-## 🚀 Full Stack Designer | Front-End | UI/UX | Motion Graphics | Branding | Social Media Design
+## 🚀 Game Developer | Website Developer | Logo Maker
 
-Welcome to my GitHub profile! I'm not just a designer;
-<br>
-I'm the Picasso of pixels and the code wizard of the design realm.
-<br>
+Welcome to my GitHub profile!;
 <br>
 <img src="https://media.giphy.com/media/hPsERiAEJFYQSs9zS0/giphy.gif" width="150">
 
