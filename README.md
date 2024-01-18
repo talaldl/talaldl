@@ -2,7 +2,7 @@
 
 ## 🚀 Game Developer | Website Developer | Logo Maker
 
-Welcome to my GitHub profile!;
+ <strong> 👋 Welcome to my GitHub profile !</strong>;
 <br>
 
 <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150">
@@ -26,11 +26,11 @@ Welcome to my GitHub profile!;
 
 ### 🎨 Let's Collaborate!
 
-If you're looking for a design superhero, I'm your pixelated knight in shining armor. Let's turn your ideas into digital masterpieces! 🚀
+ - If you are looking for a superhero designer or developer, I will be your knight with a sword and shield. Let's turn your ideas into reality! 🥳
   
 ### 🌍 Let's Connect
 
-- 📧 Need a design or developer? Reach out to me at <strong>talalcontact2010@gmail.com!</strong>
+- 📧 Need a designer or developer? Reach out to me at <strong>talalcontact2010@gmail.com!</strong>
 - 🔗 See  My Toutorial On Youtube: <a><img src="https://img.shields.io/badge/-Talal Dlool-red?style=flat-square&logo=Youtube&logoColor=white" height="25"></a>
 - 🌐 Visit My Portfolio Website <a href="talaldl.github.io/TalalDlool"><strong>talaldl.github.io/TalalDlool</strong></a><strong>!</strong>
 
